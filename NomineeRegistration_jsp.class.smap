@@ -1,0 +1,24 @@
+SMAP
+NomineeRegistration_jsp.java
+JSP
+*S JSP
+*F
++ 0 NomineeRegistration.jsp
+NomineeRegistration.jsp
++ 1 db.jsp
+db.jsp
+*L
+5,4:61
+5#1,11:64
+16,3:14
+18,2:75
+20,3:78
+22,4:81
+8#0,38:84
+46,4:18
+49,2:122
+51,8:125
+58,27:133
+85:160,3
+86,119:163
+*E
